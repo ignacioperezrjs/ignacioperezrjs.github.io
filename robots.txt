@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ignaciopererjs.github.io/sitemap.xml
