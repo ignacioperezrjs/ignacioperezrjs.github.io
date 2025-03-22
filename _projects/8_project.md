@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 8
+title: project 8 - Trying to see if ti changes
 description: an other project with a background image and giscus comments
 img: assets/img/9.jpg
 importance: 2
