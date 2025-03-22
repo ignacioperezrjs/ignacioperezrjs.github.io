@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 9 - Live with Vlada
-description: another project with an image 🎉
+title: aprobably will erase project 9
+description: understanding how it works
 img: assets/img/6.jpg
 importance: 4
 category: fun
