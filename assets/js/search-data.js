@@ -92,49 +92,49 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "projects-hnh-energy",
+          title: 'HNH Energy',
+          description: "Worked in my CISC SpA internship",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-project-2-checking",
+          title: 'project 2 - checking',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
+            },},{id: "projects-induction-heating-device",
+          title: 'Induction Heating Device',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
+            },},{id: "projects-viga-cilindro-control-automático",
+          title: 'Viga cilindro - control automático',
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-project-evaluation",
+          title: 'Project evaluation',
+          description: "FInance oriented project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-distance-telemethry",
+          title: 'Distance telemethry...',
+          description: "Capstone project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
+            },},{id: "projects-project-7-image-recognition",
+          title: 'project 7 - Image recognition',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
+            },},{id: "projects-project-8-trying-to-see-if-ti-changes",
+          title: 'project 8 - Trying to see if ti changes',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-aprobably-will-erase-project-9",
+          title: 'aprobably will erase project 9',
+          description: "understanding how it works",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
