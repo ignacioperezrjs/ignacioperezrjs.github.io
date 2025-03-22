@@ -49,6 +49,3 @@ From August 2024 to November 2024, I worked as an intern in the Project Manageme
     ---
 
 Throughout my internship, I utilized various computational tools, including Python 3 (pandas and file with different extension generation), Microsoft Excel (dynamic tables, macros), and Omega, to streamline document management processes. This experience not only honed my technical skills but also provided me with valuable insights into managing large-scale green hydrogen projects.
-
-
-{% endraw %}
