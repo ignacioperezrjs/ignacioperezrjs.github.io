@@ -24,22 +24,22 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          title: "Repositories",
+          description: "An ongoing effort to organize and showcase my coding projects. Currently featuring my latest technical work in electrical engineering and programming, this collection is a work in progress as I compile my most significant projects from recent years.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+        },{id: "nav-curriculum-vitae",
+          title: "Curriculum Vitae",
+          description: "Welcome to my CV section. This is a summary of my professional experience and abilities as an Electrical Engineer. I specialize in project evaluation, system configuration, and hands-on work in electrical engineering projects. My technical expertise includes microcontroller programming, Modbus RTU communication protocols, RTU firmware construction, and renewable energy applications. With an Honours degree, I bring practical skills in technical project coordination and cross-functional team collaboration.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          title: "Teaching",
+          description: "A summary of my teaching experience and courses.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
