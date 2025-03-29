@@ -85,16 +85,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-hnh-energy",
-          title: 'HNH Energy',
-          description: "Worked in my CISC SpA internship",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2-checking",
-          title: 'project 2 - checking',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
             },},{id: "projects-induction-heating-device",
           title: 'Induction Heating Device',
           description: "a project that redirects to another website",
@@ -130,6 +120,16 @@ ninja.data = [{
           description: "understanding how it works",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-hnh-energy",
+          title: 'HNH Energy',
+          description: "Collaborated on a 1.3 GW green hydrogen project at CISC, enhancing document management and efficiency in eolic energy generation.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/HNH_project/";
+            },},{id: "projects-project-2-checking",
+          title: 'project 2 - checking',
+          description: "a project with a background image and giscus comments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Wolke_project/";
             },},{
         id: 'social-email',
         title: 'email',
