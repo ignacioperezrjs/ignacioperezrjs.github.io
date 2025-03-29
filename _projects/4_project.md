@@ -4,7 +4,7 @@ title: Viga cilindro - control automático
 description: another without an image
 img:
 importance: 3
-category: fun
+category: University
 ---
 
 Every project has a beautiful feature showcase page.
