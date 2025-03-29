@@ -85,51 +85,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-induction-heating-device",
-          title: 'Induction Heating Device',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-viga-cilindro-control-automático",
-          title: 'Viga cilindro - control automático',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-evaluation",
-          title: 'Project evaluation',
-          description: "FInance oriented project",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-distance-telemethry",
-          title: 'Distance telemethry...',
-          description: "Capstone project",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7-image-recognition",
-          title: 'project 7 - Image recognition',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8-trying-to-see-if-ti-changes",
-          title: 'project 8 - Trying to see if ti changes',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-aprobably-will-erase-project-9",
-          title: 'aprobably will erase project 9',
-          description: "understanding how it works",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{id: "projects-hnh-energy",
           title: 'HNH Energy',
           description: "Collaborated on a 1.3 GW green hydrogen project at CISC, enhancing document management and efficiency in eolic energy generation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/HNH_project/";
-            },},{id: "projects-project-2-checking",
-          title: 'project 2 - checking',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Wolke_project/";
             },},{
         id: 'social-email',
         title: 'email',
