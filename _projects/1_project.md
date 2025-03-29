@@ -10,7 +10,7 @@ related_publications: true
     ---
     Overview
     ---
-    
+
 Welcome to the HNH Energy Project, a groundbreaking initiative in the realm of green hydrogen generation. This megaproject is a testament to the future of sustainable energy, and I had the privilege of contributing to its development during my internship at Copenhagen Infrastructure Service Company SpA (CISC).
 
 <div class="row">
