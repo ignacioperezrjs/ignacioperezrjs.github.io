@@ -12,19 +12,6 @@ profile:
     <p>Current company: Wolke SpA</p>
     <p>Pgeilgasse 3a</p>
     <p>Wien, Austria</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 Hey there! I'm excited to share a bit about myself. I'm a `25-year-old` originally from the lively city of Santiago, Chile. Most of my life has been spent soaking up the vibrant culture there, but in July 2023, I took a leap and moved to Melbourne, Australia. I was part of a bilateral exchange program at `Monash University`, which was an amazing opportunity to expand my academic and cultural horizons.

@@ -194,6 +194,7 @@ exclude:
   - vendor
   - _news/announcement_*.md
   - _pages/blog.md
+  - assets/jupyter/blog.ipynb
   - _posts/
 #  - _projects/?_project.md
   - assets/jupyter/blog.ipynb
