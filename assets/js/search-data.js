@@ -96,6 +96,11 @@ ninja.data = [{
           description: "Collaborated on a 1.3 GW green hydrogen project at CISC, enhancing document management and efficiency in eolic energy generation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/HNH_project/";
+            },},{id: "projects-trefimet-induction-lance-heater",
+          title: 'Trefimet Induction Lance Heater',
+          description: "Designed a safe, automated induction heating system for industrial lances, replacing hazardous manual processes in mining operations.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Trefimet/";
             },},{
         id: 'social-email',
         title: 'email',
