@@ -49,7 +49,9 @@ As lead developer in this university project (2023), I engineered:
         {% include figure.liquid path="/assets/img/Capstone/Resultados.png" title="Medical Dashboard" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
+<div class="caption">
+    On the left, the characteristics that are possible to measure. On the right, an image of how the webpage (built by me) works.
+</div>
 ---
 ### Key Innovations
 ---

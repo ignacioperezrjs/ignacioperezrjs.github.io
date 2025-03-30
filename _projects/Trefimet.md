@@ -7,14 +7,16 @@ importance: 2
 category: Work
 related_publications: true
 ---
-
-<div class="row mt-3">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Trefimet/JL25.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://youtu.be/FcTnBogFadk" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    The manual heating process endangers workers. This project automates thermal lance heating to eliminate human risk. Video in the link: https://youtu.be/FcTnBogFadk
+    The manual heating process endangers workers on the right. This project automates thermal lance heating to eliminate human risk. Video in the link: https://youtu.be/FcTnBogFadk. On the left, selected system for the heating system form jinbenlai.
 </div>
 
 ---
