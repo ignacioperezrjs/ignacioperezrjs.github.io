@@ -16,8 +16,8 @@ goodreads_review: # No Goodreads review ID provided
 status: Finished
 ---
 
-The review of the book can be seen in english language in the following video.:
+The review of the book can be seen in english language in the following video.
+
+Personally, I set a 3.3 star on the book as I felt it ignored many cases and did no correctly described some concepts, as mentioned in the video. However, the insights regarding motivation in different scenarios are good insights that should be taken into consideration.:
 
 {% include video.liquid path="https://youtu.be/FVVg5U7-qYg" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
-
-Personally, I set a 3.3 star on the book as I felt it ignored many cases and did no correctly described some concepts, as mentioned in the video. However, the insights regarding motivation in different scenarios are good insights that should be taken into consideration.

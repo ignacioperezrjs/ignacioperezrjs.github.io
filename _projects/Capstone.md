@@ -8,8 +8,6 @@ category: University
 related_publications: true
 ---
 
-{% include video.liquid path="https://youtu.be/placeholder_link" class="img-fluid rounded z-depth-1" controls=true %}
-
 <div class="caption">
     DocBot addresses healthcare inequities by enabling remote monitoring of vital signs in low-resource communities.
 </div>

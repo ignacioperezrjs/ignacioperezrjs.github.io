@@ -25,7 +25,9 @@ Welcome to the HNH Energy Project, a groundbreaking initiative in the realm of g
         {% include figure.liquid loading="eager" path="assets/img/HNH_Energy.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
+<div class="caption">
+    All pictures were obtained from: https://www.sea.gob.cl/sites/default/files/imce/archivos/2023/03/29/DT-Hidrogeno-Verde.pdf and the campsite simulated view from: https://www.hnhenergy.com/
+</div>
     ---
     My Role at CISC
     ---
@@ -41,9 +43,7 @@ Due to a Non-Disclosure Agreement (NDA) I signed, I am unable to disclose specif
 Over the course of four months, one of the key achievements during my internship was the implementation of the Omega platform, which led to a 15.45% increase in document processing efficiency (TdE - Tasa de Eficiencia) and a 12.5% reduction in average processing time (TPBA - Tiempo Promedio de Búsqueda y Archivo) within just two weeks. These improvements aligned with CISC's objectives to streamline document management processes, thereby enhancing the overall efficiency of the PMO. While the initial results were promising, they were based on a short evaluation period, and further analysis is required to fully validate the outcomes. Nonetheless, the scalability of the solution suggests its potential for broader application across CISC's global projects, contingent on the company's investment in time and resources.
 
 However, the most valuable learning experience was the in-depth analysis and understanding of the documents I worked on, which provided me with a comprehensive view of project management in the green energy sector.
-<div class="caption">
-    All pictures were obtained from: https://www.sea.gob.cl/sites/default/files/imce/archivos/2023/03/29/DT-Hidrogeno-Verde.pdf and the campsite simulated view from: https://www.hnhenergy.com/
-</div>
+
     ---
     Tools and Techniques Learned
     ---
