@@ -19,3 +19,14 @@ status: Reading
 **Homo Deus - A Brief History of Tomorrow** is a thought-provoking book by Yuval Noah Harari that explores the future of humankind in the 21st century. It delves into what humanity is striving for, how the world works, and the challenges we face from the perspective of an anthropologist. Harari examines the possibilities of where we are headed as a species, touching on topics like artificial intelligence, biotechnology, and the evolution of society.
 
 I started reading this book on February 20, 2025, and I am currently immersed in its fascinating insights. It provides a compelling vision of the future and raises important questions about the direction of humanity.
+
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/jNQXAC9IVRw" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://player.vimeo.com/video/524933864?h=1ac4fd9fb4&title=0&byline=0&portrait=0" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
