@@ -2,7 +2,7 @@
 layout: book-review
 title: American Gods
 author: Neil Gaiman
-cover: assets/img/book_covers/AmericanGods_photo.jpg
+cover: assets/img/book_covers/AmericanGods.jpg
 olid: # No OLID provided
 isbn: # No ISBN provided
 categories: fiction fantasy mythology

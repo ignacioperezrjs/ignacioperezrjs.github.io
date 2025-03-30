@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: The Hobbit: A Graphic Novel (English Edition)
+title: The Hobbit
 author: J. R. R. Tolkien, Chuck Dixon
 cover: assets/img/book_covers/Hobbit.jpg
 olid: # No OLID provided
