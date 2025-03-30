@@ -86,6 +86,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/HomoDeus/";
+            },},{id: "projects-docbot-telemedicine-system",
+          title: 'DocBot Telemedicine System',
+          description: "Developed a low-cost, multi-sensor telemetry device for non-critical patient monitoring, integrating IoT and Firebase for real-time data access.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Capstone/";
             },},{id: "projects-hnh-energy",
           title: 'HNH Energy',
           description: "Collaborated on a 1.3 GW green hydrogen project at CISC, enhancing document management and efficiency in eolic energy generation.",
