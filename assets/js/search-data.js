@@ -86,11 +86,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/HomoDeus/";
-            },},{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
             },},{id: "projects-docbot-telemedicine-system",
           title: 'DocBot Telemedicine System',
           description: "Developed a low-cost, multi-sensor telemetry device for non-critical patient monitoring, integrating IoT and Firebase for real-time data access.",
