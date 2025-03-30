@@ -205,6 +205,8 @@ exclude:
   - _projects/9_project.md
   - _projects/Wolke_project.md
   - assets/jupyter/blog.ipynb
+  - _pages/profiles.md
+  - _books/the_godfather.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -221,7 +223,7 @@ plugins:
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll-regex-replace
-  - jekyll/scholar
+# jekyll/scholar
   - jekyll-sitemap
   - jekyll-tabs
   - jekyll-terser
