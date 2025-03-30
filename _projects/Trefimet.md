@@ -2,14 +2,17 @@
 layout: page
 title: Trefimet Induction Lance Heater
 description: Designed a safe, automated induction heating system for industrial lances, replacing hazardous manual processes in mining operations.
-img: assets/img/Trefimet/JL-25.jpg
+img: assets/img/Trefimet/JL25.jpg
 importance: 2
 category: Work
 related_publications: true
 ---
 
-{% include video.liquid path="https://youtu.be/FcTnBogFadk" class="img-fluid rounded z-depth-1" controls=true %}
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://youtu.be/FcTnBogFadk" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 <div class="caption">
     The manual heating process endangers workers. This project automates thermal lance heating to eliminate human risk.
 </div>
@@ -39,14 +42,6 @@ As the lead electrical engineering intern from **August 2024 to November 2024**,
    - Built BoM with IP67-rated components for mining environments  
    - Integrated Wolke's VigíaBox Neo RTU for IoT-enabled fault detection
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/trefimet_sensor.jpg" title="Infrared Sensor Analysis" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/trefimet_schematic.jpg" title="System Schematic" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
 ---
 ### Key Innovations

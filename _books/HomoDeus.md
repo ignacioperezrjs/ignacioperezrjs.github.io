@@ -11,7 +11,7 @@ buy_link: https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310
 started: 2025-02-20
 finished: # Currently reading
 released: 2016
-stars: # No star rating provided
+stars: 4.6 # No star rating provided
 goodreads_review: # No Goodreads review ID provided
 status: Reading
 ---

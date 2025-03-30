@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Collection of the most important projects for me.
+description: Collection of the most important projects I have worked in.
 nav: true
 nav_order: 3
 display_categories: [Work, University, Volunteer Job]

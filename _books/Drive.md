@@ -20,4 +20,16 @@ The review of the book can be seen in english language in the following video.
 
 Personally, I set a 3.3 star on the book as I felt it ignored many cases and did no correctly described some concepts, as mentioned in the video. However, the insights regarding motivation in different scenarios are good insights that should be taken into consideration.:
 
-{% include video.liquid path="https://youtu.be/FVVg5U7-qYg" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://youtu.be/FVVg5U7-qYg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://player.vimeo.com/video/524933864?h=1ac4fd9fb4&title=0&byline=0&portrait=0" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="caption">
+    Personally made video
+</div>
