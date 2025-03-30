@@ -10,8 +10,8 @@ tags: motivation productivity
 buy_link: https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805
 started: 2023-08-07
 finished: 2025-08-25
-released: # No release year provided
-stars: # No star rating provided
+released: 2011 # No release year provided
+stars: 3.3 # No star rating provided
 goodreads_review: # No Goodreads review ID provided
 status: Finished
 ---

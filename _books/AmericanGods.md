@@ -1,18 +1,22 @@
 ---
 layout: book-review
 title: American Gods
-author: Daniel H. Pink
-cover: assets/img/book_covers/Drive_photo.jpg
+author: Neil Gaiman
+cover: assets/img/book_covers/AmericanGods_photo.jpg
 olid: # No OLID provided
 isbn: # No ISBN provided
-categories: psychology self-help business motivation
-tags: motivation productivity
-buy_link: https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805
+categories: fiction fantasy mythology
+tags: gods metaphors fiction
+buy_link: https://amzn.eu/d/8LCMmis
 started: 2023-08-07
-finished: 2025-08-25
-released: # No release year provided
-stars: # No star rating provided
+finished: 2023-10-02
+released: 2013
+stars: 4.9
 goodreads_review: # No Goodreads review ID provided
 status: Finished
 ---
+
+**American Gods** is a fantastic book that immerses the reader in a world of gods who depend on human faith to survive. Without faith, they are forgotten and even die. The story is filled with metaphors, love, and fiction, and Neil Gaiman's writing style is marvelous. Personally, I enjoyed the book much more than the comic adaptation.
+
+This book is a masterpiece of fiction and mythology, and it is highly recommended for anyone who loves a deep, thought-provoking story.
 
