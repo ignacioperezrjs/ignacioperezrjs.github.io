@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Collection of the most important projects for me.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -66,11 +66,16 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "books-the-godfather",
-          title: 'The Godfather',
+    },{id: "books-american-gods",
+          title: 'American Gods',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/AmericanGods/";
+            },},{id: "books-drive-gt-the-surprising-truth-about-what-motivates-us",
+          title: 'Drive-&amp;gt; The Surprising Truth About What Motivates Us',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Drive/";
             },},{id: "projects-hnh-energy",
           title: 'HNH Energy',
           description: "Collaborated on a 1.3 GW green hydrogen project at CISC, enhancing document management and efficiency in eolic energy generation.",
