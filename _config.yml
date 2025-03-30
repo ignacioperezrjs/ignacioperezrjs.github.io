@@ -205,6 +205,8 @@ exclude:
   - _projects/9_project.md
   - _projects/Wolke_project.md
   - assets/jupyter/blog.ipynb
+  - _pages/publications.md
+  - _pages/profiles.md
 keep_files:
   - CNAME
   - .nojekyll
