@@ -76,11 +76,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Drive/";
-            },},{id: "books-",
-          title: '',
+            },},{id: "books-the-hobbit",
+          title: 'The Hobbit',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Hobbit/";
+            },},{id: "books-homo-deus-a-brief-history-of-tomorrow",
+          title: 'Homo Deus - A Brief History of Tomorrow',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/HomoDeus/";
             },},{id: "projects-hnh-energy",
           title: 'HNH Energy',
           description: "Collaborated on a 1.3 GW green hydrogen project at CISC, enhancing document management and efficiency in eolic energy generation.",
