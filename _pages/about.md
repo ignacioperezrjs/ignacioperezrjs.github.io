@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Current company: Wolke SpA</p>
-    <p>Pgeilgasse 3a</p>
-    <p>Wien, Austria</p>
+    <p>Current company-> Wolke SpA</p>
+    <p>Address -> Pgeilgasse 3a</p>
+    <p>City -> Vienna, Austria</p>
 ---
 
 Hey there! I’m Ignacio, a `25-year-old` `electrical engineer`. My passion lies in `energy`, `power systems`, and `IoT`. I'm eager to contribute to innovative projects that help improve society.

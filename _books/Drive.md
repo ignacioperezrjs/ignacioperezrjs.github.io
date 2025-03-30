@@ -25,11 +25,8 @@ Personally, I set a 3.3 star on the book as I felt it ignored many cases and did
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://youtu.be/FVVg5U7-qYg" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://player.vimeo.com/video/524933864?h=1ac4fd9fb4&title=0&byline=0&portrait=0" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
 
 <div class="caption">
-    Personally made video
+    Personally made video. Video link: https://youtu.be/FVVg5U7-qYg
 </div>

@@ -7,9 +7,13 @@ importance: 3
 category: University
 related_publications: true
 ---
-
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Capstone/Docbot.png" title="Custom PCB Design" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 <div class="caption">
-    DocBot addresses healthcare inequities by enabling remote monitoring of vital signs in low-resource communities.
+    DocBot addresses healthcare inequities by enabling remote monitoring of vital signs in low-resource communities with internet access.
 </div>
 
 ---
@@ -39,10 +43,10 @@ As lead developer in this university project (2023), I engineered:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/docbot_pcb.jpg" title="Custom PCB Design" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Capstone/Caracteristicas.png" title="Custom PCB Design" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/docbot_dashboard.jpg" title="Medical Dashboard" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="/assets/img/Capstone/Resultados.png" title="Medical Dashboard" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

@@ -14,7 +14,7 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    The manual heating process endangers workers. This project automates thermal lance heating to eliminate human risk.
+    The manual heating process endangers workers. This project automates thermal lance heating to eliminate human risk. Video in the link: https://youtu.be/FcTnBogFadk
 </div>
 
 ---
