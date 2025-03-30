@@ -207,6 +207,7 @@ exclude:
   - assets/jupyter/blog.ipynb
   - _pages/publications.md
   - _pages/profiles.md
+  - _books/the_godfather.md
 keep_files:
   - CNAME
   - .nojekyll
