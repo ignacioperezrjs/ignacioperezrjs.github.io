@@ -3,9 +3,9 @@ layout: page
 title: Trefimet Induction Lance Heater
 description: Designed a safe, automated induction heating system for industrial lances, replacing hazardous manual processes in mining operations.
 img: assets/img/trefimet_heater.jpg
-importance: 1
+importance: 2
 category: Work
-related_publications: false
+related_publications: true
 ---
 
 {% include video.liquid path="https://youtu.be/FcTnBogFadk" class="img-fluid rounded z-depth-1" controls=true %}

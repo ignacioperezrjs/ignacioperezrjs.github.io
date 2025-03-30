@@ -3,9 +3,9 @@ layout: page
 title: DocBot Telemedicine System
 description: Developed a low-cost, multi-sensor telemetry device for non-critical patient monitoring, integrating IoT and Firebase for real-time data access.
 img: assets/img/Capstone/Docbot.png
-importance: 1
+importance: 3
 category: University
-related_publications: false
+related_publications: true
 ---
 
 {% include video.liquid path="https://youtu.be/placeholder_link" class="img-fluid rounded z-depth-1" controls=true %}
