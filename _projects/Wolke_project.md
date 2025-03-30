@@ -1,81 +1,69 @@
 ---
 layout: page
-title: project 2 - checking
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: Trefimet Induction Lance Heater
+description: Designed a safe, automated induction heating system for industrial lances, replacing hazardous manual processes in mining operations.
+img: assets/img/trefimet_heater.jpg
+importance: 1
+category: Work
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+{% include video.liquid path="https://youtu.be/FcTnBogFadk" class="img-fluid rounded z-depth-1" controls=true %}
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<div class="caption">
+    The manual heating process endangers workers. This project automates thermal lance heating to eliminate human risk.
+</div>
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+---
+### The Problem
+---
+Industrial thermal lances ("lanzas térmicas" in Spanish) require precise heating to cut metal in mining operations. Traditional methods expose workers to extreme temperatures and hazardous conditions. At Wolke, we partnered with **Stout** to develop an induction-based heating system that removes human operators from danger while improving precision and efficiency.
+
+---
+### My Role
+---
+As the lead electrical engineering intern from **August 2024 to November 2024**, I spearheaded:
+
+1. **Sensor System Design**  
+   - Researched & prototyped non-contact infrared temperature sensors to monitor 2-4m lances  
+   - Analyzed LiDAR/ultrasonic alternatives for metal detection in high-power environments  
+   - Created Python scripts to calculate area-averaged thermal profiles (critical for uneven geometries)
+
+2. **Induction Heater Optimization**  
+   - Evaluated 15+ industrial heaters (15kW monophasic to 30kW triphasic)  
+   - Reduced costs by 40% selecting Chinese suppliers via RS485/Modbus RTU compatibility analysis  
+   - Reverse-engineered legacy analog systems during on-site visits to Stout facilities
+
+3. **Export-Ready Architecture**  
+   - Designed schematics in Miro for international voltage compliance (380-480V AC)  
+   - Built BoM with IP67-rated components for mining environments  
+   - Integrated Wolke's VigíaBox Neo RTU for IoT-enabled fault detection
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/trefimet_sensor.jpg" title="Infrared Sensor Analysis" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/trefimet_schematic.jpg" title="System Schematic" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+---
+### Key Innovations
+---
+- **Safety First:** Replaced manual heating with automated closed-loop control (0% operator exposure)  
+- **Smart Sensing:** Implemented multi-point IR thermal averaging (±2°C accuracy at 800°C)  
+- **Cost Control:** Achieved 15kW induction heating at $5,200 USD via Jinbenlai Electromechanical components  
+- **Future-Proof:** Designed modular architecture for easy scaling to 30kW+ systems  
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+---
+### Tools & Technologies
+---
+- **Hardware:** Omega CN7500 PID controllers, VigíaBox Neo RTU, RS485 networks  
+- **Software:** Python (pandas for thermal analysis), MATLAB (induction field simulations)  
+- **Standards:** IEC 60529 (IP67 compliance), ISO 13849 (functional safety)  
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+---
+### Short Description
+---
+This safety-critical project automated thermal lance heating for mining operations, eliminating worker exposure to extreme temperatures. I led sensor selection, induction system design, and IoT integration while reducing costs by 40%. The resulting system achieves ±2°C control at 800°C using infrared thermal averaging and industrial-grade Modbus communication.

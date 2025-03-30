@@ -14,12 +14,14 @@ profile:
     <p>Wien, Austria</p>
 ---
 
-Hey there! I'm excited to share a bit about myself. I'm a `25-year-old` originally from the lively city of Santiago, Chile. Most of my life has been spent soaking up the vibrant culture there, but in July 2023, I took a leap and moved to Melbourne, Australia. I was part of a bilateral exchange program at `Monash University`, which was an amazing opportunity to expand my academic and cultural horizons.
+Hey there! I’m Ignacio, a `25-year-old` `electrical engineer`. My passion lies in `energy`, `power systems`, and `IoT`. I'm eager to contribute to innovative projects that help improve society.
 
-Growing up, I was all about `rugby`. I started playing when I was just 9 years old, and it taught me a lot about teamwork and discipline. However, when the COVID-19 pandemic hit, I shifted my focus to my studies in `Electrical Engineering` at the `Pontifical Catholic University of Chile`. It was a tough transition, but it really pushed me to excel in my academics and life in general.
+I have hands-on experience in `renewable energy` and the `Chilean electrical market`, and I recently worked on a large-scale `green hydrogen project` with over `1 GW of wind power production` as a 4-month intern at `CISC SpA`. Currently, I’m working on my thesis as a `project engineer`, leading a real-world `telemetry project` for a client. `Wolke SpA` gave me the opportunity to manage all phases of this project—always under the supervision of a senior engineer—which integrates `wireless power transfer` through `induction heating`. My role involves both the technical and managerial aspects, from `system design` to `implementation`, ensuring smooth operation and reliability. I’ve also contributed to `product design` from an `electrical engineering perspective`, refining solutions to make them more efficient and practical.
 
-Outside of engineering, I'm a bit of an adventurer. I've tried `paragliding`, and one of my big dreams is to get a pilot license for it someday. There's just something incredible about flying high above the world and seeing everything from a new perspective.
+Additionally, I have experience in the `commercial team`, working on `project evaluation` and `pre-sales` that require technical knowledge of the `energy`, `mining`, and `IoT` sectors.
 
-In my downtime, I enjoy playing football with friends, going to the gym, relaxing in the sauna, or reading a good book. These activities help me stay balanced and energized, whether I'm solving a tricky engineering problem or exploring new opportunities.
+One of my core beliefs is that `teamwork` is at the heart of every successful project. Playing `rugby` for most of my life taught me that great things happen when a team works together toward a shared goal. In engineering, the same principle applies—`collaboration` and `open-mindedness` lead to the best solutions. I value `ethics`, `teamwork`, and `humility` because I recognize that there’s always more to learn, and growth comes from working with others who challenge and inspire me.
 
-For me, life is all about `growing and learning`. I'm always on the lookout for new things to learn and ways to `contribute` to projects that matter.
+Outside of engineering, I’m an `adventurer` at heart. I’ve gone `paragliding`, and one of my dreams is to get a `pilot’s license` someday. I also enjoy playing `football` and going to the `gym`.
+
+I’m looking for a `long-term opportunity` in the `energy sector`, `electrical engineering in mining` or `IoT applications`. Ideally in a company that’s committed make real impact. If you’re looking for someone who is eager to learn, adaptable, and passionate about engineering, let’s connect through my email: `ignacioperez1901@gmail.com`!
