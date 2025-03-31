@@ -23,7 +23,7 @@ Personally, I set a 3.3 star on the book as I felt it ignored many cases and did
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://youtu.be/FVVg5U7-qYg" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/watch?v=FVVg5U7-qYg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
