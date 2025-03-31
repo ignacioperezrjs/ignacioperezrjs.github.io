@@ -12,7 +12,7 @@ related_publications: true
         {% include figure.liquid loading="eager" path="assets/img/Trefimet/JL25.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://youtu.be/FcTnBogFadk" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="https://www.youtube.com/embed/FcTnBogFadk" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
