@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trefimet Induction Lance Heater
-description: Designed a safe, automated induction heating system for industrial lances, replacing hazardous manual processes in mining operations.
+description: Contributed to design a safe, automated induction heating system for industrial lances, replacing hazardous manual processes in mining operations.
 img: assets/img/Trefimet/JL25.jpg
 importance: 2
 category: Work
@@ -16,18 +16,18 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    The manual heating process endangers workers on the right. This project automates thermal lance heating to eliminate human risk. Video in the link: https://youtu.be/FcTnBogFadk. On the left, selected system for the heating system form jinbenlai.
+    On the left, selected system for the heating system form jinbenlai. The manual heating process endangers workers on the right. This project automates thermal lance heating to eliminate human risk. Video in the link: https://youtu.be/FcTnBogFadk. 
 </div>
 
 ---
 ### The Problem
 ---
-Industrial thermal lances ("lanzas térmicas" in Spanish) require precise heating to cut metal in mining operations. Traditional methods expose workers to extreme temperatures and hazardous conditions. At Wolke, we partnered with **Stout** to develop an induction-based heating system that removes human operators from danger while improving precision and efficiency.
+Industrial thermal lances ("lanzas térmicas" in Spanish) require precise heating to cut metal in mining operations. Traditional methods expose workers to extreme temperatures and hazardous conditions. At Wolke, our telemethry services were hired from **Stout** to develop the control and select sensores from an induction-based heating system that removes human operators from danger while improving precision and efficiency.
 
 ---
 ### My Role
 ---
-As the lead electrical engineering intern from **August 2024 to November 2024**, I spearheaded:
+As the electrical engineering intern from **November 2024**, I spearheaded:
 
 1. **Sensor System Design**  
    - Researched & prototyped non-contact infrared temperature sensors to monitor 2-4m lances  

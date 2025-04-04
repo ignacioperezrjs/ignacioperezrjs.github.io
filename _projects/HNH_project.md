@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HNH Energy
-description: Collaborated on a 1.3 GW green hydrogen project at CISC, enhancing document management and efficiency in eolic energy generation.
+description: Collaborated on a 1.3 GW green hydrogen project at CISC SpA, enhancing document management and efficiency in eolic energy generation.
 img: assets/img/HNH_Energy.jpg
 importance: 1
 category: Work
