@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-I have spent a significant portion of my career as a private instructor, though I am no longer actively teaching. My experience spans various subjects, including Python programming, Wolfram Mathematica for linear algebra and calculus, and mathematics.
+I have spent a significant portion of my career as a private instructor. My experience spans various subjects, including Python programming, Wolfram Mathematica for linear algebra and calculus, and mathematics.
 
 ### University Teaching Experience
 
