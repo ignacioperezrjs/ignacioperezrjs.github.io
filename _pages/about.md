@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Current company-> Wolke SpA</p>
-    <p>Address -> Pgeilgasse 3a</p>
+    <p>Address -> Pfeilgasse 3a</p>
     <p>City -> Vienna, Austria</p>
 ---
 
@@ -24,4 +24,4 @@ One of my core beliefs is that `teamwork` is at the heart of every successful pr
 
 Outside of engineering, I’m an `adventurer` at heart. I’ve gone `paragliding`, and one of my dreams is to get a `pilot’s license` someday. I also enjoy playing `football` and going to the `gym`.
 
-I’m looking for a `long-term opportunity` in the `energy sector`, `electrical engineering in mining` or `IoT applications`. Ideally in a company that’s committed make real impact. If you’re looking for someone who is eager to learn, adaptable, and passionate about engineering, let’s connect through my email: `ignacioperez1901@gmail.com`!
+I’m looking for a `long-term opportunity` in the `energy sector`, `electrical engineering in mining` or `IoT applications`. Ideally in a company that’s committed to make a real impact. If you’re looking for someone who is eager to learn, adaptable, and passionate about engineering, let’s connect through my email: `ignacioperez1901@gmail.com`!
