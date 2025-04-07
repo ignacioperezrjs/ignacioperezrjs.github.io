@@ -10,6 +10,7 @@ children:
   - title: divider
   - title: Read Papers
     permalink: /blog/
+  - title: divider
   - title: Teaching experience
     permalink: /teaching/
 ---
