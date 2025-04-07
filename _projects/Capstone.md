@@ -7,6 +7,7 @@ importance: 3
 category: University
 related_publications: true
 ---
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Capstone/Docbot.png" title="Custom PCB Design" class="img-fluid rounded z-depth-1" %}
@@ -24,50 +25,49 @@ Traditional patient monitoring requires multiple expensive devices (ECG, SpO2 se
 ---
 ### My Role
 ---
-As lead developer in this university project (2023), I engineered:
+As the **lead developer** in this university capstone project (team of 3), I engineered:
 
 1. **Multi-Sensor Integration**  
-   - Programmed ESP32-CAM to process data from LM35 (temperature), MAX30100 (SpO2/heart rate), CCS811 (respiratory rate), and INMP441 (audio)  
-   - Implemented peak detection algorithms for respiratory rate calculation (derivative-based, 30s sampling)  
-   - Designed pupil reflex test with ESP32-CAM flash control (3-image capture protocol)
+   - Programmed ESP32-CAM to process data from LM35 (temperature), MAX30100 (SpO2/heart rate), CCS811 (respiratory rate), and INMP441 (audio).  
+   - Implemented peak detection algorithms for respiratory rate calculation (derivative-based, 30s sampling).  
+   - Designed a pupil reflex test with ESP32-CAM flash control (3-image capture protocol).
 
 2. **IoT Infrastructure**  
-   - Built Firebase Realtime Database for live vital sign streaming  
-   - Created medical dashboard with OTA update functionality  
-   - Configured Firebase Storage for audio/pupil image retention
+   - Built a Firebase Realtime Database for live vital sign streaming.  
+   - Created a medical dashboard with OTA update functionality.  
+   - Configured Firebase Storage for audio and pupil image retention.
 
 3. **Hardware Optimization**  
-   - Designed compact PCB integrating 5V/3.3V power regulation (LM3671)  
-   - Reduced component costs by 68% vs commercial alternatives  
-   - Prototyped IP54-rated casing for home/clinic use
+   - Designed a compact PCB integrating 5V/3.3V power regulation (LM3671).  
+   - Reduced component costs by 68% compared to commercial alternatives.  
+   - Prototyped an IP54-rated casing for home and clinic use.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Capstone/Caracteristicas.png" title="Custom PCB Design" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Capstone/Caracteristicas.png" title="System Features" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="/assets/img/Capstone/Resultados.png" title="Medical Dashboard" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    On the left, the characteristics that are possible to measure. On the right, an image of how the webpage (built by me) works.
+    Left: Measurable vital signs. Right: Web dashboard interface.
 </div>
+
 ---
 ### Key Innovations
 ---
-- **Cost Efficiency:** 7-in-1 functionality at 1/10th market price  
-- **Edge Computing:** Local signal processing on ESP32 reduces cloud dependency  
-- **Telemedicine Ready:** Firebase integration enables global access (±2s latency)  
-- **Safety First:** Compliant with ECMA-287 (EMI) and ISO 14971 (risk management)  
+- **Cost Efficiency:** 7-in-1 functionality at 1/10th the market price.  
+- **Edge Computing:** Local signal processing on ESP32 reduces cloud dependency.  
+- **Telemedicine Ready:** Firebase integration enables global access with ±2s latency.  
+- **Safety First:** Compliant with ECMA-287 (EMI) and ISO 14971 (risk management).  
 
-```liquid
-{% raw %}
 ---
 ### Tools & Technologies
 ---
-- **Hardware:** ESP32-CAM, MAX30100 Pulse Oximeter, CCS811 Gas Sensor  
-- **Software:** Arduino IDE (C++), Firebase Realtime Database, Python (data analysis)  
-- **Standards:** IEC 60601-1 (medical electrical safety), HIPAA-compliant data encryption  
+- **Hardware:** ESP32-CAM, MAX30100 Pulse Oximeter, CCS811 Gas Sensor.  
+- **Software:** Arduino IDE (C++), Firebase Realtime Database, Python (data analysis).  
+- **Standards:** IEC 60601-1 (medical electrical safety), HIPAA-compliant data encryption.  
 
 ---
 ### Impact Highlights
@@ -76,22 +76,22 @@ As lead developer in this university project (2023), I engineered:
     <div class="col">
         <h4>Economic</h4>
         <ul>
-            <li>80% cost reduction vs commercial alternatives</li>
-            <li>Eliminates need for 3-4 separate devices</li>
+            <li>80% cost reduction vs commercial alternatives.</li>
+            <li>Eliminates the need for 3-4 separate devices.</li>
         </ul>
     </div>
     <div class="col">
         <h4>Social</h4>
         <ul>
-            <li>Reduces clinic wait times by 40% (simulated)</li>
-            <li>Spanish/English bilingual interface</li>
+            <li>Reduces clinic wait times by 40% (simulated).</li>
+            <li>Spanish/English bilingual interface.</li>
         </ul>
     </div>
     <div class="col">
         <h4>Environmental</h4>
         <ul>
-            <li>75% fewer e-waste components</li>
-            <li>5-year lifespan (accelerated testing)</li>
+            <li>75% fewer e-waste components.</li>
+            <li>5-year lifespan (accelerated testing).</li>
         </ul>
     </div>
 </div>
@@ -99,5 +99,4 @@ As lead developer in this university project (2023), I engineered:
 ---
 ### Short Description
 ---
-DocBot is an open-source telemedicine platform that monitors 7+ vital signs (ECG, SpO2, respiratory rate) through a single $65 USD device. I led hardware/software development, achieving 98% sensor accuracy in non-critical cases while implementing secure Firebase cloud integration. The system reduces clinical congestion and medical costs through real-time remote monitoring.
-{% endraw %}
+DocBot is an open-source telemedicine platform that monitors 7+ vital signs (ECG, SpO2, respiratory rate) through a single $65 USD device. I led hardware and software development, achieving 98% sensor accuracy in non-critical cases while implementing secure Firebase cloud integration. The system reduces clinical congestion and medical costs through real-time remote monitoring.
