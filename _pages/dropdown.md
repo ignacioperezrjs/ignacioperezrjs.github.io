@@ -8,6 +8,8 @@ children:
   - title: Bookshelf
     permalink: /books/
   - title: divider
-  - title: Read papers
+  - title: Read Papers
     permalink: /blog/
+  - title: Teaching experience
+    permalink: /teaching/
 ---

@@ -3,8 +3,8 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: A summary of my teaching experience and courses.
-nav: true
-nav_order: 6
+nav: false
+#nav_order: 6
 ---
 
 I have spent a significant portion of my career as a private instructor. My experience spans various subjects, including Python programming, Wolfram Mathematica for linear algebra and calculus, and mathematics.
