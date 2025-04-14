@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: Curriculum Vitae
+title: CV
 nav: true
 nav_order: 5
 cv_pdf: Ignacio_Perez_cv.pdf # you can also use external links here
