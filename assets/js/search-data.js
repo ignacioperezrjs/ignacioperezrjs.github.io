@@ -82,6 +82,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/HomoDeus/";
+            },},{id: "books-sapiens-a-brief-history-of-humankind",
+          title: 'Sapiens - A Brief History of Humankind',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Sapiens/";
             },},{id: "projects-docbot-telemedicine-system",
           title: 'DocBot Telemedicine System',
           description: "Developed a low-cost, multi-sensor telemetry device for non-critical patient monitoring, integrating IoT and Firebase for real-time data access.",
