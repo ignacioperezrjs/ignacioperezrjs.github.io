@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Ignacio Andrés Pérez Rojas",
-    "label": "Electrical Engineer (Honours degree)",
+    "label": "Electrical Engineer",
     "image": "",
     "email": "ignacioperez1901@gmail.com",
     "phone": "+43 664 99470941",
@@ -83,9 +83,9 @@
       "location": "Santiago, Chile",
       "url": "",
       "area": "Electrical Engineering",
-      "studyType": "Honours Degree",
-      "startDate": "2024-01-01",
-      "endDate": "2025-01-01",
+      "studyType": "Engineering Degree",
+      "startDate": "2024-03-01",
+      "endDate": "2025-05-26",
       "score": "",
       "courses": []
     },
@@ -114,17 +114,24 @@
   ],
   "certificates": [
     {
-      "name": "English Certification (C1) – TOEFL iBT (96)",
+      "name": "Project Evaluation",
+      "date": "2025-04-12",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/G441R3PEXK1R",
+      "icon": ""
+    },
+    {
+      "name": "English Certification (C1) – TOEFL iBT",
       "date": "2022-10-01",
       "issuer": "TOEFL",
-      "url": "",
+      "url": "https://drive.google.com/file/d/1Lyw5vgpujvVb12q5eUL0PwMen8srB3rj/view",
       "icon": ""
     },
     {
       "name": "Level 1 University of Chile German Certificate (A1)",
       "date": "2025-01-01",
       "issuer": "University of Chile",
-      "url": "",
+      "url": "https://www.linkedin.com/in/ignacioperezrjs/overlay/1737507949179/single-media-viewer/?type=DOCUMENT&profileId=ACoAADUyR7EBgyIFZXhbQHiA-v2UneOiUWqCAaI",
       "icon": ""
     }
   ],
