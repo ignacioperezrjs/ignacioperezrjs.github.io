@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Welcome to my CV section. This is a summary of my professional experience and abilities as an Electrical Engineer. I specialize in project evaluation, system configuration, and hands-on work in electrical engineering projects. My technical expertise includes microcontroller programming, Modbus RTU communication protocols, RTU firmware construction, and renewable energy applications. With an Honours degree, I bring practical skills in technical project coordination and cross-functional team collaboration.",
+          description: "Welcome to my CV section. This is a summary of my professional experience and abilities as an Electrical Engineer. I specialize in project evaluation, system configuration, and hands-on work in electrical engineering projects. My technical expertise includes microcontroller programming, Modbus RTU communication protocols and renewable energy applications (Project evaluation and hands on experience PMO intern). With an Electrical Engineering Degree, I bring practical skills in technical project coordination and cross-functional team collaboration.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
