@@ -6,7 +6,7 @@
     "email": "ignacioperez1901@gmail.com",
     "phone": "+43 664 99470941",
     "url": "www.linkedin.com/in/ignacioperezrjs",
-    "summary": "Detail-oriented Electrical Engineer with hands-on experience in system configuration, cabling, and IT hardware for industrial and renewable energy applications. Skilled in technical documentation, CAD-based design, network infrastructure, and project coordination. Strong ability to work in cross-functional teams, ensuring smooth system deployment and delivery. Fluent in English (C1) and actively improving German.",
+    "summary": "Detail-oriented Electrical Engineer with 11 months experience in internships. Looking forward working in the Renewable Energy Sector or Energy Efficiency. Worked programming mostly in Python language in my studies. Worked with AI systems focussed in image analysis (like YOLO) and Recommender Systems. Fluent in English (C1) and actively improving German.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -144,7 +144,8 @@
         "AutoCAD",
         "Visio",
         "MATLAB",
-        "Python (Pandas, NumPy)",
+        "Python (Pandas, NumPy, Gurobi (optimisation modeling))",
+        "Microsoft Office (Excel, Word, PowerPoint)",
         "C (Microcontrollers)"
       ]
     },
