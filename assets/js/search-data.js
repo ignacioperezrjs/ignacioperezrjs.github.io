@@ -51,15 +51,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/teaching/";
               },
-            },{id: "post-a-post-with-image-galleries",
+            },{id: "post-stochastic-optimisation-in",
       
-        title: "a post with image galleries",
+        title: "Stochastic Optimisation in.",
       
-      description: "this is what included image galleries could look like",
+      description: "When generating energy with a portfolio with a bit portion of renewables, there is a high uncertainty of how much energy will be generated (Q [MW], generated power and P [Euros/MW], price). Objetive of the paper is to build a optimisation model for trading that includes a risk-neutral portfolio owner and then expand it to a risk-avertion portfolio owner.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2024/photo-gallery/";
+          window.location.href = "/blog/2025/StochasticOptimization/";
         
       },
     },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -71,17 +71,6 @@ ninja.data = [{
       handler: () => {
         
           window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-        
-      },
-    },{id: "post-a-post-with-tabs",
-      
-        title: "a post with tabs",
-      
-      description: "this is what included tabs in a post could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/tabs/";
         
       },
     },{id: "post-a-post-with-typograms",
@@ -126,17 +115,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2024/code-diff/";
-        
-      },
-    },{id: "post-a-post-with-advanced-image-components",
-      
-        title: "a post with advanced image components",
-      
-      description: "this is what advanced image components could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/advanced-images/";
         
       },
     },{id: "post-a-post-with-vega-lite",
@@ -227,17 +205,6 @@ ninja.data = [{
           window.location.href = "/blog/2023/custom-blockquotes/";
         
       },
-    },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
-      
-        title: "a post with table of contents on a sidebar",
-      
-      description: "an example of a blog post with table of contents on a sidebar",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/sidebar-table-of-contents/";
-        
-      },
     },{id: "post-a-post-with-audios",
       
         title: "a post with audios",
@@ -269,17 +236,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2023/tables/";
-        
-      },
-    },{id: "post-a-post-with-table-of-contents",
-      
-        title: "a post with table of contents",
-      
-      description: "an example of a blog post with table of contents",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/table-of-contents/";
         
       },
     },{id: "post-a-post-with-giscus-comments",
@@ -346,17 +302,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2015/disqus-comments/";
-        
-      },
-    },{id: "post-a-post-with-code",
-      
-        title: "a post with code",
-      
-      description: "an example of a blog post with some code",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/code/";
         
       },
     },{id: "post-a-post-with-images",
