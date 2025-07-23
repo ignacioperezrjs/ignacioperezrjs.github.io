@@ -2,7 +2,7 @@
 layout: distill
 title: Stochastic Optimisation of Trading Strategies in Sequential Electricity Markets.
 description: When generating energy with a portfolio with a big portion of renewables generation, there is a high uncertainty of how much energy will be generated (Q [MW], generated power and P [Euros/MW], price). Objetive of the paper is to build a optimisation model for trading that includes a risk-neutral portfolio owner and then expand it to a risk-avertion portfolio owner.
-giscus_comments: true
+giscus_comments: false
 date: 2025-07-23
 featured: true
 mermaid:
@@ -16,6 +16,7 @@ chart:
   vega_lite: true
 tikzjax: true
 typograms: true
+thumbnail: assets/img/foto_paper.png
 
 authors:
   - name: Emil Kraft
@@ -81,7 +82,7 @@ This blog is oriented towards the summary and analysis of the paper ⁠ `Stoch
 
 ---
 ## Summary
-When individual traders own a portfolio with high shares of renewables, uncertainty in future price Euros/MW  and energy production quantity MW increases.
+When individual traders own a portfolio with high shares of renewables, uncertainty in future price $ Euros/MW $ and energy production quantity $ MW $ increases.
 
 The objetive of the paper is to controll the trading of a portfolio with renewables energy production and controllable production (gas, diesel, among others).
 
@@ -89,11 +90,6 @@ The conclusions, as expected are that a trader risk-neutral will prefer to take 
 
 ---
 ## Introduction
-As a brief introduction to the problem, it could be summarised as a cause-effect system that can be seen as follow:
-1. ⁠Because of Renewable Energy Integration into the portfolio, Uncertainty increases.
-2. ⁠The existence of an auction system which includes a Day Ahead, Intra-day and reserve market makes it a more difficult system to analyse.
-3. ⁠Nowadays, the way to face this market is based on $$ deterministic $$ softwares, gut feeling of the trading specialists, among others. 
-
 {% details Click here to know more %}
 Deterministic v/s Stochastic. Deterministic events always gives the same ouput given an identical input.⁠ Stochastic events Involves randomness, it's possible to produce different outputs given a "identical" inputs. 
 As an example, imagine yourself want to go and ask a calculator to your university library.
@@ -137,10 +133,14 @@ Problem: Study Room at the Student Center (CAI)
 - Time students spend in the room  
 
 {% enddetails %}
+As a brief introduction to the problem, it could be summarised as a cause-effect system that can be seen as follow:
+1. ⁠Because of Renewable Energy Integration into the portfolio, Uncertainty increases.
+2. ⁠The existence of an auction system which includes a Day Ahead, Intra-day and reserve market makes it a more difficult system to analyse.
+3. ⁠Nowadays, the way to face this market is based on  *deterministic* softwares, gut feeling of the trading specialists, among others. 
 
 4. For This reason, the paper intends to use a MILP software to model a trader with a portfolio that includes renewable generation units (volatille) and controllable units.
 
-5. The idea is to model the german market. Including the $$ reserve market $$ , $$ spot market $$ & $$ Day Ahead market. $$
+5. The idea is to model the german market. Including the * reserve market * , * spot market * & * Day Ahead market. *. the box below has more information related to the markets.
 
 {% details Click here to know more %}
 The difference between the Reserve, Spot and Day Ahead markets is.......
@@ -154,6 +154,8 @@ It is important to mention that the focuss of the paper is on the individual app
 {% details Click here to know more %}
 The main importance of the unit commitment and optimal trading problem.
 {% enddetails %}
+
+<a href="assets/img/foto_paper.png" data-lightbox="roadtrip"><img src="assets/img/foto_paper.png" /></a>
 
 ---
 ## Market Description
