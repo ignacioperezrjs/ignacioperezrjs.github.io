@@ -77,7 +77,7 @@ _styles: >
 ---
 
 ## Explanation of the Blog
-This blog is oriented towards the summary and analysis of the paper ⁠ Stochastic Optimisation of Trading Strategies in Sequential Electricity Markets ⁠. For this, the sections in here will be explanations of the paper in a summarised ways and trying to use words as simple as possible.
+This blog is oriented towards the summary and analysis of the paper $$⁠ Stochastic Optimisation of Trading Strategies in Sequential Electricity Markets $$ ⁠. For this, the sections in here will be explanations of the paper in a summarised ways and trying to use words as simple as possible.
 
 ---
 ## Summary
@@ -93,13 +93,15 @@ As a brief introduction to the problem, it could be summarised as a cause-effect
 1. ⁠Because of Renewable Energy Integration into the portfolio, Uncertainty increases.
 2. ⁠The existence of an auction system which includes a Day Ahead, Intra-day and reserve market makes it a more difficult system to analyse.
 3. ⁠Nowadays, the way to face this market is based on deterministic softwares, gut feeling of the trading specialists, among others. 
-4. For This reason, the paper intends to use a MILP software to model a trader with a portfolio that includes renewable generation units (volatille) and controllable units.
-5. The idea is to model the german market. Including the reserve market, spot market & Day Ahead market.
 
 {% deterministic v/s stochastic %}
 ⁠ Deterministic ⁠ -> Deterministic events always gives the same ouput given an identical input.⁠ Stochastic ⁠-> Involves randomness, it's possible to produce different outputs given a "identical" inputs. 
 As an example, imagine yourself want to go and ask a calculator to your university library.
 {% enddetails %}
+
+4. For This reason, the paper intends to use a MILP software to model a trader with a portfolio that includes renewable generation units (volatille) and controllable units.
+
+5. The idea is to model the german market. Including the reserve market, spot market & Day Ahead market.
 
 {% Reserve, Spot and Day Ahead market %}
 The difference between the Reserve, Spot and Day Ahead markets is.......
@@ -118,9 +120,8 @@ The main importance of the unit commitment and optimal trading problem.
 
 ---
 ## Methodology  
-  # subsections:
-  #   - name: Example Child Subsection 1
-  #   - name: Example Child Subsection 2
+  #   Example Child Subsection 1
+  #   Example Child Subsection 2
 
 ---
 ## Case Study
