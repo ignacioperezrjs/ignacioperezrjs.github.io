@@ -1,8 +1,7 @@
 ---
 layout: distill
 title: Stochastic Optimisation of Trading Strategies in Sequential Electricity Markets.
-description: When generating energy with a portfolio with a bit portion of renewables, there is a high uncertainty of how much energy will be generated (Q [MW], generated power and P [Euros/MW], price). Objetive of the paper is to build a optimisation model for trading that includes a risk-neutral portfolio owner and then expand it to a risk-avertion portfolio owner.
-tags: distill formatting
+description: When generating energy with a portfolio with a big portion of renewables generation, there is a high uncertainty of how much energy will be generated (Q [MW], generated power and P [Euros/MW], price). Objetive of the paper is to build a optimisation model for trading that includes a risk-neutral portfolio owner and then expand it to a risk-avertion portfolio owner.
 giscus_comments: true
 date: 2025-07-23
 featured: true
@@ -82,9 +81,20 @@ This blog is oriented towards the summary and analysis of the paper ⁠ Stocha
 
 ---
 ## Summary
+When individual traders own a portfolio with high shares of renewables, uncertainty in future price Euros/MW  and energy production quantity MW increases.
+
+The objetive of the paper is to controll the trading of a portfolio with renewables energy production and controllable production (gas, diesel, among others).
+
+The conclusions, as expected are that a trader risk-neutral will prefer to take bigger risks in intra day operations. (Later, will be explained that there are 3 markets, Intra-Day, Day-Ahead and Reserve Market).
 
 ---
 ## Introduction
+As a brief introduction to the problem, it could be summarised as a cause-effect system that can be seen as follow:
+1. ⁠Because of Renewable Energy Integration into the portfolio, Uncertainty increases.
+2. ⁠The existence of an auction system which includes a Day Ahead, Intra-day and reserve market makes it a more difficult system to analyse.
+3. ⁠Nowadays, the way to face this market is based on deterministic softwares, gut feeling of the trading specialists, among others. 
+4. For This reason, the paper intends to use a MILP software to model a trader with a portfolio that includes renewable generation units (volatille) and controllable units.
+5. The idea is to model the german market. Including the reserve market, spot market & Day Ahead market.
 
 ---
 ## Literature Review and Research Gap
