@@ -95,7 +95,7 @@ As a brief introduction to the problem, it could be summarised as a cause-effect
 3. ⁠Nowadays, the way to face this market is based on deterministic softwares, gut feeling of the trading specialists, among others. 
 
 {% deterministic v/s stochastic %}
-⁠ Deterministic ⁠ -> Deterministic events always gives the same ouput given an identical input.⁠ Stochastic ⁠-> Involves randomness, it's possible to produce different outputs given a "identical" inputs. 
+Deterministic events always gives the same ouput given an identical input.⁠ Stochastic events Involves randomness, it's possible to produce different outputs given a "identical" inputs. 
 As an example, imagine yourself want to go and ask a calculator to your university library.
 {% enddetails %}
 
