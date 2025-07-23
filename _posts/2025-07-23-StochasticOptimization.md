@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Stochastic Optimisation in.
+title: Stochastic Optimisation of Trading Strategies in Sequential Electricity Markets.
 description: When generating energy with a portfolio with a bit portion of renewables, there is a high uncertainty of how much energy will be generated (Q [MW], generated power and P [Euros/MW], price). Objetive of the paper is to build a optimisation model for trading that includes a risk-neutral portfolio owner and then expand it to a risk-avertion portfolio owner.
 tags: distill formatting
 giscus_comments: true
@@ -78,6 +78,7 @@ _styles: >
 ---
 
 ## Explanation of the Blog
+This blog is oriented towards the summary and analysis of the paper ⁠ Stochastic Optimisation of Trading Strategies in Sequential Electricity Markets ⁠. For this, the sections in here will be explanations of the paper in a summarised ways and trying to use words as simple as possible.
 
 ---
 ## Summary
