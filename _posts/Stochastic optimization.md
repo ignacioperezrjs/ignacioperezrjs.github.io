@@ -1,10 +1,10 @@
 ---
 layout: distill
-title: Summary and analysis of "Stochastic optimization of trading strategies in sequential electricity markets".
-description: When generating energy with a portfolio with a strong renewable.......
+title: Summary and analysis of "Stochastic optimization of trading strategies in sequential electricity markets" paper.
+description: When generating energy with a portfolio with a bit portion of renewables, there is a high uncertainty of how much energy will be generated (Q [MW], generated power and P [Euros/MW], price). Objetive of the paper is to build a optimisation model for trading that includes a risk-neutral portfolio owner and then expand it to a risk-avertion portfolio owner.
 tags: distill formatting
 giscus_comments: true
-date: 2021-05-22
+date: 2025-07-23
 featured: true
 mermaid:
   enabled: true
@@ -19,20 +19,21 @@ tikzjax: true
 typograms: true
 
 authors:
-  - name: Albert Einstein
-    url: "https://en.wikipedia.org/wiki/Albert_Einstein"
+  - name: Emil Kraft
+    url: "https://www.iip.kit.edu/86_3881.php"
     affiliations:
-      name: IAS, Princeton
-  - name: Boris Podolsky
-    url: "https://en.wikipedia.org/wiki/Boris_Podolsky"
+      name: IIP, KIT
+  - name: Marianna Russo
+    url: "https://neoma-bs.com/professors/russo-marianna-2/"
     affiliations:
-      name: IAS, Princeton
-  - name: Nathan Rosen
-    url: "https://en.wikipedia.org/wiki/Nathan_Rosen"
+      name: NTNU, Norway
+  - name: Dogan Keles
+    url: "https://orbit.dtu.dk/en/persons/dogan-keles"
     affiliations:
-      name: IAS, Princeton
+      name: DTU, Denmark
+  - name: Valentin Bertsch
 
-bibliography: 2018-12-22-distill.bib
+bibliography: assets/bibliography/June2021_Stochastic.bib
 
 # Optionally, you can add a table of contents to your post.
 # NOTES:
