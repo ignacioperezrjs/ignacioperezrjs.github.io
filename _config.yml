@@ -193,11 +193,11 @@ exclude:
   - readme_preview/
   - vendor
   - _news/announcement_*.md
-# - _pages/blog.md
+  # - _pages/blog.md
   - assets/jupyter/blog.ipynb
   # - _posts/2015-03-15-formatting-and-links.md 
   # - _posts/2015-05-15-images.md 
-  # - _posts/2015-07-15-code.md
+  - _posts/2015-07-15-code.md
   # - _posts/2015-10-20-disqus-comments.md 
   # - _posts/2015-10-20-math.md 
   # - _posts/2018-12-22-distill.md 

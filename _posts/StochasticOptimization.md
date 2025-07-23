@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Summary and analysis of "Stochastic optimization of trading strategies in sequential electricity markets" paper.
+title: Stochastic Optimisation in.
 description: When generating energy with a portfolio with a bit portion of renewables, there is a high uncertainty of how much energy will be generated (Q [MW], generated power and P [Euros/MW], price). Objetive of the paper is to build a optimisation model for trading that includes a risk-neutral portfolio owner and then expand it to a risk-avertion portfolio owner.
 tags: distill formatting
 giscus_comments: true
@@ -33,7 +33,7 @@ authors:
       name: DTU, Denmark
   - name: Valentin Bertsch
 
-bibliography: assets/bibliography/June2021_Stochastic.bib
+bibliography: June2021_Stochastic.bib
 
 # Optionally, you can add a table of contents to your post.
 # NOTES:
