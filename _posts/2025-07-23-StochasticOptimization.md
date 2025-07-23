@@ -77,7 +77,7 @@ _styles: >
 ---
 
 ## Explanation of the Blog
-This blog is oriented towards the summary and analysis of the paper $$⁠ Stochastic Optimisation of Trading Strategies in Sequential Electricity Markets $$ ⁠. For this, the sections in here will be explanations of the paper in a summarised ways and trying to use words as simple as possible.
+This blog is oriented towards the summary and analysis of the paper ⁠ `Stochastic Optimisation of Trading Strategies in Sequential Electricity Markets`⁠. For this, the sections in here will be explanations of the paper in a summarised ways and trying to use words as simple as possible.
 
 ---
 ## Summary
@@ -92,16 +92,55 @@ The conclusions, as expected are that a trader risk-neutral will prefer to take 
 As a brief introduction to the problem, it could be summarised as a cause-effect system that can be seen as follow:
 1. ⁠Because of Renewable Energy Integration into the portfolio, Uncertainty increases.
 2. ⁠The existence of an auction system which includes a Day Ahead, Intra-day and reserve market makes it a more difficult system to analyse.
-3. ⁠Nowadays, the way to face this market is based on deterministic softwares, gut feeling of the trading specialists, among others. 
+3. ⁠Nowadays, the way to face this market is based on $$ deterministic $$ softwares, gut feeling of the trading specialists, among others. 
 
 {% details Click here to know more %}
 Deterministic v/s Stochastic. Deterministic events always gives the same ouput given an identical input.⁠ Stochastic events Involves randomness, it's possible to produce different outputs given a "identical" inputs. 
 As an example, imagine yourself want to go and ask a calculator to your university library.
+**The Problem**
+
+Suppose you and your classmates want to study in the *Student Center study room*, and you also need to borrow calculators.
+
+Some natural questions that may arise are:
+
+1. **What is the probability that a calculator is available?**  
+2. **Is there a free table?**  
+3. **Is there a small study room available?**  
+4. **From the Student Center's perspective, is it worth having more calculators? Or is it an unnecessary expense?**
+
+---
+
+**What do we need to know to answer these questions?**
+
+---
+
+**Motivation**  
+Problem: Study Room at the Student Center (CAI)
+
+---
+
+**Deterministic variables of the problem**  
+*These are known and fixed values:*
+
+- Number of chairs and tables  
+- Number of chairs per table  
+- Number of study boxes  
+- Number of calculators  
+
+---
+
+**Stochastic (random) variables of the problem**  
+*These are uncertain and vary randomly:*
+
+- Arrival of students to the study room  
+- Arrival of students requesting calculators  
+- Time students spend in the room  
+
 {% enddetails %}
 
 4. For This reason, the paper intends to use a MILP software to model a trader with a portfolio that includes renewable generation units (volatille) and controllable units.
 
-5. The idea is to model the german market. Including the reserve market, spot market & Day Ahead market.
+5. The idea is to model the german market. Including the $$ reserve market $$ , $$ spot market $$ & $$ Day Ahead market. $$
 
 {% details Click here to know more %}
 The difference between the Reserve, Spot and Day Ahead markets is.......
@@ -111,6 +150,7 @@ The difference between the Reserve, Spot and Day Ahead markets is.......
 ---
 ## Literature Review and Research Gap
 
+It is important to mention that the focuss of the paper is on the individual approach. The two more important are the optimal dispatch problem (unit commitment) and the optimal trading problem.
 {% details Click here to know more %}
 The main importance of the unit commitment and optimal trading problem.
 {% enddetails %}
