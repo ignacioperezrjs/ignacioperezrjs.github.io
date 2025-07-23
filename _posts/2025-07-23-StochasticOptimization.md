@@ -94,8 +94,8 @@ As a brief introduction to the problem, it could be summarised as a cause-effect
 2. ⁠The existence of an auction system which includes a Day Ahead, Intra-day and reserve market makes it a more difficult system to analyse.
 3. ⁠Nowadays, the way to face this market is based on deterministic softwares, gut feeling of the trading specialists, among others. 
 
-{% deterministic v/s stochastic %}
-Deterministic events always gives the same ouput given an identical input.⁠ Stochastic events Involves randomness, it's possible to produce different outputs given a "identical" inputs. 
+{% details Click here to know more %}
+Deterministic v/s Stochastic. Deterministic events always gives the same ouput given an identical input.⁠ Stochastic events Involves randomness, it's possible to produce different outputs given a "identical" inputs. 
 As an example, imagine yourself want to go and ask a calculator to your university library.
 {% enddetails %}
 
@@ -103,7 +103,7 @@ As an example, imagine yourself want to go and ask a calculator to your universi
 
 5. The idea is to model the german market. Including the reserve market, spot market & Day Ahead market.
 
-{% Reserve, Spot and Day Ahead market %}
+{% details Click here to know more %}
 The difference between the Reserve, Spot and Day Ahead markets is.......
 {% enddetails %}
 
@@ -111,7 +111,7 @@ The difference between the Reserve, Spot and Day Ahead markets is.......
 ---
 ## Literature Review and Research Gap
 
-{% More about Unit Commitment and optimal trading problem %}
+{% details Click here to know more %}
 The main importance of the unit commitment and optimal trading problem.
 {% enddetails %}
 
