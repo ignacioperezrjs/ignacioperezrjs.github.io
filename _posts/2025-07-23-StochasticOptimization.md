@@ -96,8 +96,22 @@ As a brief introduction to the problem, it could be summarised as a cause-effect
 4. For This reason, the paper intends to use a MILP software to model a trader with a portfolio that includes renewable generation units (volatille) and controllable units.
 5. The idea is to model the german market. Including the reserve market, spot market & Day Ahead market.
 
+{% deterministic v/s stochastic %}
+⁠ Deterministic ⁠ -> Deterministic events always gives the same ouput given an identical input.⁠ Stochastic ⁠-> Involves randomness, it's possible to produce different outputs given a "identical" inputs. 
+As an example, imagine yourself want to go and ask a calculator to your university library.
+{% enddetails %}
+
+{% Reserve, Spot and Day Ahead market %}
+The difference between the Reserve, Spot and Day Ahead markets is.......
+{% enddetails %}
+
+
 ---
 ## Literature Review and Research Gap
+
+{% More about Unit Commitment and optimal trading problem %}
+The main importance of the unit commitment and optimal trading problem.
+{% enddetails %}
 
 ---
 ## Market Description
